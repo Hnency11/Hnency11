@@ -11,4 +11,6 @@
 ## 📫 How to reach me: 
 **💬 My inbox is always open, Contact me** <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nency-hirpara-a082a626b/)[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nencyhirpara99@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nency-hirpara-a082a626b/)
+</a>
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nencyhirpara99@gmail.com) 

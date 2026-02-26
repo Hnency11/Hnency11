@@ -1,7 +1,8 @@
 ## Hi There, I'm <a href="https://HNENCY11.github.io/My-Portfolio/">Nency Hirpara</a> <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 <p align="left"> 
 
-
+# 💫 About Me:
+<br>🌱Exploring AI, Deep Learning, and scalable backend systems<br>💼 Open to Full Time and Internship roles<br>😄 Pronouns: She/Her<br>⚡ Fun fact: I turn random ideas into working prototypes
 <!--
 **Hnency11/Hnency11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

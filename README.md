@@ -13,4 +13,4 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nency-hirpara-a082a626b/)
 </a>
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nencyhirpara99@gmail.com) 
+[![Gmail](https://img.shields.io/badge/Gmail-nencyhirpara99%40gmail.com-red?logo=gmail&logoColor=white)](mailto:nencyhirpara99@gmail.com)

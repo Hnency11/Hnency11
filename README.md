@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi There, I'm <a href="https://HNENCY11.github.io/My-Portfolio/">Nency Hirpara</a> <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=Hnency11&color=blue alt=Hnency11/></p>
+
 
 <!--
 **Hnency11/Hnency11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
